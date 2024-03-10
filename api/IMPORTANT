@@ -1,0 +1,2 @@
+Console: npm i axios@1.1.2
+Packet.json: proxy: http://localhost:8000
